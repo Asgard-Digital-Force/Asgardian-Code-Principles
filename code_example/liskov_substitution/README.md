@@ -10,9 +10,9 @@ The examples in this directory aim to demonstrate the application of the Liskov 
 
 ## Examples Description
 
-`example1`: A basic example that demonstrates the concept of LSP. It shows a superclass and subclass, highlighting how the subclass can be used in place of the superclass.
-`example2`: This example delves into a more complex scenario, illustrating common pitfalls that violate LSP and how to rectify them.
-`real_world_example`: Provides a real-world scenario where applying LSP is crucial, showing its practical benefits in software design.
+`example1`: A basic example that demonstrates the concept of LSP. It shows a superclass and subclass, highlighting how the subclass can be used in place of the superclass.  
+`example2`: This example delves into a more complex scenario, illustrating common pitfalls that violate LSP and how to rectify them.  
+`real_world_example`: Provides a real-world scenario where applying LSP is crucial, showing its practical benefits in software design.  
 
 ## How to Run the Examples
 

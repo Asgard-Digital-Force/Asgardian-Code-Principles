@@ -16,23 +16,23 @@ Welcome to the Asgardian Code Principles repository. This index provides a compr
 
 Single Responsibility Principle (SRP)
 
-[Overview and Examples](code_example/single_responsibility/)
+[Overview and Examples](code_example/single_responsibility/README.md)
 
 Open/Closed Principle (OCP)
 
-[Overview and Examples](code_example/open_closed/)
+[Overview and Examples](code_example/open_closed/README.md)
 
 Liskov Substitution Principle (LSP)
 
-[Overview and Examples](code_example/liskov_substitution/)
+[Overview and Examples](code_example/liskov_substitution/README.md)
 
 Interface Segregation Principle (ISP)
 
-[Overview and Examples](code_example/interface_segregation/)
+[Overview and Examples](code_example/interface_segregation/README.md)
 
 Dependency Inversion Principle (DIP)
 
-[Overview and Examples](code_example/dependency_inversion/)
+[Overview and Examples](code_example/dependency_inversion/README.md)
 
 <!-- Additional Resources
 

@@ -10,9 +10,9 @@ The aim of these examples is to illustrate the application of the Interface Segr
 
 ## Examples Description
 
-`example1`: An introductory example showing the implementation of ISP. It contrasts a monolithic interface with segregated, specific interfaces.
-`example2`: This example explores a more advanced implementation, demonstrating the benefits of ISP in a scenario with multiple clients requiring different functionalities.
-`real_world_example`: A real-world case study highlighting the practical application and advantages of ISP in software design.
+`example1`: An introductory example showing the implementation of ISP. It contrasts a monolithic interface with segregated, specific interfaces.  
+`example2`: This example explores a more advanced implementation, demonstrating the benefits of ISP in a scenario with multiple clients requiring different functionalities.  
+`real_world_example`: A real-world case study highlighting the practical application and advantages of ISP in software design.  
 
 ## How to Run the Examples
 

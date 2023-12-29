@@ -10,9 +10,9 @@ The aim of these examples is to showcase how implementing SRP can lead to more m
 
 ## Examples Description
 
-`example1`: This file demonstrates a basic implementation of SRP. It shows a common coding scenario refactored to adhere to SRP, highlighting the before and after differences.
-`example2`: In this example, we take a more complex scenario where a class is initially handling multiple responsibilities and break it down into smaller, more focused classes.
-`real_world_example`: This example is a real-world situation where applying SRP can significantly improve the design and maintainability of the code.
+`example1`: This file demonstrates a basic implementation of SRP. It shows a common coding scenario refactored to adhere to SRP, highlighting the before and after differences.  
+`example2`: In this example, we take a more complex scenario where a class is initially handling multiple responsibilities and break it down into smaller, more focused classes.  
+`real_world_example`: This example is a real-world situation where applying SRP can significantly improve the design and maintainability of the code.  
 
 ## How to Run the Examples
 

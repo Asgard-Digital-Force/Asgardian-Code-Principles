@@ -10,9 +10,9 @@ The examples here aim to demonstrate the application of the Dependency Inversion
 
 ## Examples Description
 
-`example1`: A straightforward example showing the basic implementation of DIP. It illustrates how dependency inversion can be achieved through the use of interfaces or abstract classes.
-`example2`: This example delves into a more complex use case, showcasing how DIP aids in decoupling components of a system, thus making them more independent and easier to manage.
-`real_world_example`: Provides a practical scenario highlighting the application of DIP in real-world software development, demonstrating its benefits in a larger context.
+`example1`: A straightforward example showing the basic implementation of DIP. It illustrates how dependency inversion can be achieved through the use of interfaces or abstract classes.  
+`example2`: This example delves into a more complex use case, showcasing how DIP aids in decoupling components of a system, thus making them more independent and easier to manage.  
+`real_world_example`: Provides a practical scenario highlighting the application of DIP in real-world software development, demonstrating its benefits in a larger context.  
 
 ## How to Run the Examples
 

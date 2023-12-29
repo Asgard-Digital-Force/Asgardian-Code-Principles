@@ -10,9 +10,9 @@ The purpose of these examples is to demonstrate the application of the Open/Clos
 
 ## Examples Description
 
-`example1`: Shows a basic implementation of the Open/Closed Principle. It provides a scenario where new functionality is added without changing existing code.
-`example2`: This example demonstrates a more advanced application of OCP, focusing on extending the functionalities of a module using patterns like inheritance or composition.
-`real_world_example`: Provides a real-world case study that applies OCP, illustrating the practical benefits and enhancements in software design.
+`example1`: Shows a basic implementation of the Open/Closed Principle. It provides a scenario where new functionality is added without changing existing code.  
+`example2`: This example demonstrates a more advanced application of OCP, focusing on extending the functionalities of a module using patterns like inheritance or composition.  
+`real_world_example`: Provides a real-world case study that applies OCP, illustrating the practical benefits and enhancements in software design.  
 
 ## How to Run the Examples
 
