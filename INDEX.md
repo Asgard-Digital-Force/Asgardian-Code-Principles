@@ -6,11 +6,11 @@ Welcome to the Asgardian Code Principles repository. This index provides a compr
 
 [Documentation](docs/)
 
-[Single Responsibility Principle (SRP)](docs/Single_Responsibility_Principle.md)
-[Open/Closed Principle (OCP)](docs/Open_Closed_Principle.md)
-[Liskov Substitution Principle (LSP)](docs/Liskov_Substitution_Principle.md)
-[Interface Segregation Principle (ISP)](docs/Interface_Segregation_Principle.md)
-[Dependency Inversion Principle (DIP)](docs/Dependency_Inversion_Principle.md)
+[Single Responsibility Principle (SRP)](docs/Single_Responsibility_Principle.md)  
+[Open/Closed Principle (OCP)](docs/Open_Closed_Principle.md)  
+[Liskov Substitution Principle (LSP)](docs/Liskov_Substitution_Principle.md)  
+[Interface Segregation Principle (ISP)](docs/Interface_Segregation_Principle.md)  
+[Dependency Inversion Principle (DIP)](docs/Dependency_Inversion_Principle.md)  
 
 ## Code Examples
 
