@@ -1,5 +1,15 @@
 # Asgardian-Code-Principles
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Asgard-Digital-Force/Asgardian-Code-Principles">
+    <img src="asgardCodePrincipleLogo.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h3 align="center">Terpsi'Connect</h3>
+</div>
+
 ## Introduction
 
 Welcome to the "Asgardian Code Principles" repository. This project is an initiative by Asgard Digital Force aimed to promoting best programming practices with a focus on SOLID principles. Here, you'll find a compilation or courses, resources, and code examples to master these fundamental principles.
