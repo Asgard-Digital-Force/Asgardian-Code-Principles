@@ -25,23 +25,19 @@ SRP is fundamental to good software design and architecture, promoting cleanline
 
 ## Advantages
 
-(A list of benefits of applying this principle. For example, improvements in maintainability, flexibility, reduction in complexity, etc.)
-
-Advantage 1: (Explanation)
-Advantage 2: (Explanation)
+- **Simplified Testing**: Classes with a single responsibility have fewer test cases and are easier to unit test.
+- **Easier Maintenance**: Changes in one part of the system have minimal impact on others, reducing the risk of bugs.
+- **Improved Readability and Organization**: Code is more readable and easier to understand when each class focuses on a single task.
 
 ## Disadvantages
 
-(A list of drawbacks or challenges associated with implementing this principle.)
-
-Disadvantage 1: (Explanation)
-Disadvantage 2: (Explanation)
+- **Increased Number of Classes**: Adhering to SRP may lead to a higher number of classes in the system, which some may find adds complexity in terms of understanding and navigating the codebase.
+- **Potential Over-Engineering**: There's a risk of over-splitting responsibilities which can lead to excessive granularity, making the system harder to grasp as a whole.
 
 ## Reliable Source
 
-(Provide a link to a reliable source for more information on the principle. This could be a well-known book, research article, or tutorial.)
-
-SOLID Principle - Source
+- **"Clean Code: A Handbook of Agile Software Craftsmanship"** by Robert C. Martin - This book offers a comprehensive explanation of SRP and other principles for writing clean, maintainable code.
+- [Single Responsibility Principle on Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle) - Provides a general overview and examples.
 
 ## Use Cases
 

@@ -24,23 +24,18 @@ Adhering to the Interface Segregation Principle helps in building software that 
 
 ## Advantages
 
-(A list of benefits of applying this principle. For example, improvements in maintainability, flexibility, reduction in complexity, etc.)
-
-Advantage 1: (Explanation)
-Advantage 2: (Explanation)
+- **Targeted Implementation**: Clients are not forced to implement interfaces they don’t use, reducing the burden of irrelevant methods.
+- **Enhanced Cohesion**: Promotes cohesion within the system as components are more narrowly focused and aligned with specific tasks.
 
 ## Disadvantages
 
-(A list of drawbacks or challenges associated with implementing this principle.)
-
-Disadvantage 1: (Explanation)
-Disadvantage 2: (Explanation)
+- **Increased Complexity**: Can lead to a larger number of individual interfaces, which might increase the complexity of the codebase.
+- **Management of Multiple Interfaces**: Keeping track of multiple smaller interfaces can be more challenging than dealing with a single, larger interface.
 
 ## Reliable Source
 
-(Provide a link to a reliable source for more information on the principle. This could be a well-known book, research article, or tutorial.)
-
-SOLID Principle - Source
+- **"Agile Software Development, Principles, Patterns, and Practices"** by Robert C. Martin - This book covers SOLID principles, including ISP, in the context of agile development.
+- [Interface Segregation Principle on Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle) - A quick guide to understanding ISP.
 
 ## Use Cases
 

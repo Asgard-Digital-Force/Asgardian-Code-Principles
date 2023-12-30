@@ -24,23 +24,18 @@ OCP is crucial for long-term sustainability of software projects, as it reduces 
 
 ## Advantages
 
-(A list of benefits of applying this principle. For example, improvements in maintainability, flexibility, reduction in complexity, etc.)
-
-Advantage 1: (Explanation)
-Advantage 2: (Explanation)
+- **Extensibility**: The system is more extensible as new functionality can be added with minimal or no changes to existing code.
+- **Reduced Risk of Breaking Existing Code**: Adding new features by extension rather than modification reduces the risk of introducing bugs in existing functionality.
 
 ## Disadvantages
 
-(A list of drawbacks or challenges associated with implementing this principle.)
-
-Disadvantage 1: (Explanation)
-Disadvantage 2: (Explanation)
+- **Complexity in Initial Design**: Requires foresight in design to effectively create systems that can be extended without modification.
+- **Potential Performance Overheads**: The use of abstraction layers and interfaces to achieve extensibility can introduce performance overheads in some cases.
 
 ## Reliable Source
 
-(Provide a link to a reliable source for more information on the principle. This could be a well-known book, research article, or tutorial.)
-
-SOLID Principle - Source
+- **"Object-Oriented Software Engineering: A Use Case Driven Approach"** by Ivar Jacobson - This book delves into OCP and object-oriented design.
+- [Open/Closed Principle on Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) - Offers a broad understanding of OCP with examples.
 
 ## Use Cases
 

@@ -24,23 +24,18 @@ The Liskov Substitution Principle is integral to creating a well-structured, sca
 
 ## Advantages
 
-(A list of benefits of applying this principle. For example, improvements in maintainability, flexibility, reduction in complexity, etc.)
-
-Advantage 1: (Explanation)
-Advantage 2: (Explanation)
+- **Interchangeability of Subclasses**: Subclasses can be substituted for their base classes without affecting the functioning of the program.
+- **Improved Robustness**: Ensures that extending classes via inheritance does not introduce unintended side effects.
 
 ## Disadvantages
 
-(A list of drawbacks or challenges associated with implementing this principle.)
-
-Disadvantage 1: (Explanation)
-Disadvantage 2: (Explanation)
+- **Restrictive Design Constraints**: Can impose certain limitations on how classes and subclasses are designed, which might be viewed as overly restrictive.
+- **Complexity in Subclass Design**: Requires careful design of subclasses to ensure they don't alter expected behavior, which can be challenging.
 
 ## Reliable Source
 
-(Provide a link to a reliable source for more information on the principle. This could be a well-known book, research article, or tutorial.)
-
-SOLID Principle - Source
+- **"Program Development in Java: Abstraction, Specification, and Object-Oriented Design"** by Barbara Liskov and John Guttag - Provides insights from one of the principle's namesakes.
+- [Liskov Substitution Principle on Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle) - A resource for understanding the basics of LSP.
 
 ## Use Cases
 
