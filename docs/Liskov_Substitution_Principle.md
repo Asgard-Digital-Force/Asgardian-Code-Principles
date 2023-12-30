@@ -42,6 +42,9 @@ graph TD
         JS1[JS developer] --extends--> FD1[Front developer]
         RD1[React developer] --extends--> JS1
         VJS1[Vuejs developer] --extends--> JS1
+
+        RD1 -.implements.-> spa[createSinglePageApplication]
+        VJS1 -.implement.-> spa
     end
 ```
 
@@ -50,7 +53,7 @@ graph TD
 
     subgraph Liskov substitution application
         direction BT
-        FD0[Front developer] -.can.-> D[createFrontApplication]
+        FD0[Front developer] -.can.-> D[createHTMLPage\ncreateDynamicComponent]
         JS0[JS developer] -.can.-> D
         RD0[React developer] -.can.-> D
         VJS0[Vuejs developer] -.can.-> D
