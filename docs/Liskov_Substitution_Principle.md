@@ -53,7 +53,7 @@ graph TD
 
     subgraph Liskov substitution application
         direction BT
-        FD0[Front developer] -.can.-> D[createHTMLPage\ncreateDynamicComponent]
+        FD0[Front developer] -.can.-> D[Front developer job]
         JS0[JS developer] -.can.-> D
         RD0[React developer] -.can.-> D
         VJS0[Vuejs developer] -.can.-> D
