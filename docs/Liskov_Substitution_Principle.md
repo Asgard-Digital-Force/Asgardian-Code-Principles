@@ -39,12 +39,12 @@ graph TD
 
     subgraph Class inheritance
         direction BT
-        JS1[JS developer] --extends--> FD1[Front developer]
-        RD1[React developer] --extends--> JS1
-        VJS1[Vuejs developer] --extends--> JS1
+        JS1[JQuery developer] --extends--> FD1[JS developer]
+        MD1[Modern JS framework developer] --extends--> FD1[JS developer]
+        RD1[React developer] --extends--> MD1
+        VJS1[Vuejs developer] --extends--> MD1
 
-        RD1 -.implements.-> spa[createSinglePageApplication]
-        VJS1 -.implement.-> spa
+        MD1 -.implements.-> spa[createSinglePageApplication]
     end
 ```
 
@@ -53,8 +53,9 @@ graph TD
 
     subgraph Liskov substitution application
         direction BT
-        FD0[Front developer] -.can.-> D[Front developer job]
-        JS0[JS developer] -.can.-> D
+        FD0[JS developer] -.can.-> D[Front developer job]
+        JS0[JQuery developer] -.can.-> D
+        MD0[Modern JS framework developer] -.can.-> D
         RD0[React developer] -.can.-> D
         VJS0[Vuejs developer] -.can.-> D
     end
