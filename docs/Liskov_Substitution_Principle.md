@@ -32,7 +32,18 @@ The Liskov Substitution Principle is integral to creating a well-structured, sca
 - **Restrictive Design Constraints**: Can impose certain limitations on how classes and subclasses are designed, which might be viewed as overly restrictive.
 - **Complexity in Subclass Design**: Requires careful design of subclasses to ensure they don't alter expected behavior, which can be challenging.
 
-## Exemple
+
+## Reliable Source
+
+- **"Program Development in Java: Abstraction, Specification, and Object-Oriented Design"** by Barbara Liskov and John Guttag - Provides insights from one of the principle's namesakes.
+- [Liskov Substitution Principle on Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle) - A resource for understanding the basics of LSP.
+
+## Use Cases
+
+(Describe different scenarios where applying this principle is particularly beneficial. Include concrete examples to illustrate how and when to use this principle.)
+
+
+### Front developer case
 
 ```mermaid
 graph TD
@@ -60,16 +71,6 @@ graph TD
         VJS0[Vuejs developer] -.can.-> D
     end
 ```
-
-
-## Reliable Source
-
-- **"Program Development in Java: Abstraction, Specification, and Object-Oriented Design"** by Barbara Liskov and John Guttag - Provides insights from one of the principle's namesakes.
-- [Liskov Substitution Principle on Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle) - A resource for understanding the basics of LSP.
-
-## Use Cases
-
-(Describe different scenarios where applying this principle is particularly beneficial. Include concrete examples to illustrate how and when to use this principle.)
 
 Use Case 1: (Explanation)
 Use Case 2: (Explanation)
