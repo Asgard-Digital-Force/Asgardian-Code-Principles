@@ -7,7 +7,7 @@
     <img src="asgardCodePrincipleLogo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Terpsi'Connect</h3>
+  <h3 align="center">Asgard Code Principle</h3>
 </div>
 
 ## Introduction
