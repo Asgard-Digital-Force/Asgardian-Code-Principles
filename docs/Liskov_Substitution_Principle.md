@@ -32,6 +32,7 @@ The Liskov Substitution Principle is integral to creating a well-structured, sca
 - **Restrictive Design Constraints**: Can impose certain limitations on how classes and subclasses are designed, which might be viewed as overly restrictive.
 - **Complexity in Subclass Design**: Requires careful design of subclasses to ensure they don't alter expected behavior, which can be challenging.
 
+
 ## Reliable Source
 
 - **"Program Development in Java: Abstraction, Specification, and Object-Oriented Design"** by Barbara Liskov and John Guttag - Provides insights from one of the principle's namesakes.
@@ -40,6 +41,36 @@ The Liskov Substitution Principle is integral to creating a well-structured, sca
 ## Use Cases
 
 (Describe different scenarios where applying this principle is particularly beneficial. Include concrete examples to illustrate how and when to use this principle.)
+
+
+### Front developer case
+
+```mermaid
+graph TD
+
+    subgraph Class inheritance
+        direction BT
+        JS1[JQuery developer] --extends--> FD1[JS developer]
+        MD1[Modern JS framework developer] --extends--> FD1[JS developer]
+        RD1[React developer] --extends--> MD1
+        VJS1[Vuejs developer] --extends--> MD1
+
+        MD1 -.implements.-> spa[createSinglePageApplication]
+    end
+```
+
+```mermaid
+graph TD
+
+    subgraph Liskov substitution application
+        direction BT
+        FD0[JS developer] -.can.-> D[Front developer job]
+        JS0[JQuery developer] -.can.-> D
+        MD0[Modern JS framework developer] -.can.-> D
+        RD0[React developer] -.can.-> D
+        VJS0[Vuejs developer] -.can.-> D
+    end
+```
 
 Use Case 1: (Explanation)
 Use Case 2: (Explanation)
